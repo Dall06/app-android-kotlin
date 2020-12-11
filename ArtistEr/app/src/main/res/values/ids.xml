@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="im_account" type="id" />
+    <item name="collapsingToolbar" type="id" />
+    <item name="action_button" type="id" />
+    <item name="et_email" type="id" />
+    <item name="et_phone" type="id" />
+    <item name="et_account" type="id" />
+    <item name="et_bio" type="id" />
+    <item name="bt_web" type="id" />
+    <item name="bt_yt" type="id" />
+    <item name="bt_sp" type="id" />
+    <item name="bt_ig" type="id" />
+    <item name="bt_fb" type="id" />
+</resources>
